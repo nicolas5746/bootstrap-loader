@@ -1,12 +1,12 @@
 The MIT License
 
-Copyright (c) 2022-present Nicolás Batista Piñeyro
+Copyright (c) 2022-present `Nicolás Batista Piñeyro`
 
 <nicolas26386@gmail.com>
 
-(https://github.com/nicolas5746)
+[Github Repository](https://github.com/nicolas5746)
 
-# BootstrapLoader
+# Bootstrap Loader
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.3.
 
